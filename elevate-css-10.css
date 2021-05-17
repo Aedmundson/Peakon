@@ -21,10 +21,10 @@ body {
 	/*background-color: #E8EEF9;*/
 }
 
-.sidebar-tab-content section, [data-qa = "feed-card"], .css-1njih6h {
+.sidebar-tab-content section, [data-qa = "feed-card"], .css-1njih6h, div#COMMUNITY_FEED_CONTAINER > div > div {
 	background-color: #E8EEF9 !important;
 }
-.sidebar-tab-content section {
+.profile_completion {
 	padding: 10px;
 }
 
