@@ -15,12 +15,12 @@ body {
 
 .sidebar-tab-content div, .css-1njih6h {
 	box-shadow: none;
-	background-color: #E8EEF9;
+	/*background-color: #E8EEF9;*/
 }
 
-.sidebar-tab-content section {
+/*.sidebar-tab-content section {
 	background-color: #E8EEF9;
-}
+}*/
 
 /*Tabs*/
 
@@ -39,9 +39,9 @@ body {
 .channel-card__gradient_dark {
 	display: none;
 }
-.channel-card__image-container div {
+/*.channel-card__image-container div {
 	background-color: #E8EEF9;
-}
+}*/
 .channel-card__horizontal-line {
 	border-bottom-color: #FFF;
 	opacity: 1;
