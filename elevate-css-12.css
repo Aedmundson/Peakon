@@ -13,11 +13,11 @@ body {
 	display: flex;
 	background-color: #FFF;
 }
-div#ADVOCATE-NAV {
+div#ADVOCATE-NAV > div:last-child {
   width: 1050px;
   margin: 0 auto;
 }
-div#ADVOCATE-NAV div:first-child {
+div#ADVOCATE-NAV > div:first-child {
 	width: 100%;
 }
 .css-1j1duor {
