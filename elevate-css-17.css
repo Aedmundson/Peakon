@@ -66,6 +66,10 @@ div#ADVOCATE-NAV > div:first-child {
 .c-footer-social li:nth-child(3) {
 	clear: both;
 }
+.c-footer-social li > * {
+	vertical-align: middle;
+	padding-right: 15px;
+}
 
 /*Sidebar*/
 
