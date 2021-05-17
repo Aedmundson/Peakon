@@ -4,8 +4,14 @@ body {
 	background:#FFF;
 	color: #000;
 }
+
+#events, #home {
+	background:#FFF;
+}
+
 .css-ltsvdo {
 	display: flex;
+	background-color: #FFF;
 }
 
 /*Sidebar*/
@@ -15,7 +21,7 @@ body {
 	/*background-color: #E8EEF9;*/
 }
 
-.sidebar-tab-content section {
+.sidebar-tab-content section, .right-sidebar-content > div, ._233Y56Fi8CrWCwvrk6cqky, .css-1njih6h {
 	background-color: #E8EEF9;
 }
 
@@ -51,4 +57,5 @@ body {
 }
 .channel-card__inner-content-container:hover .channel-card__dark-overlay {
 	background-color: #E8EEF9;
+	box-shadow: none;
 }
