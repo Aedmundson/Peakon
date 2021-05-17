@@ -21,8 +21,8 @@ body {
 	/*background-color: #E8EEF9;*/
 }
 
-.sidebar-tab-content section, .right-sidebar-content > div, ._233Y56Fi8CrWCwvrk6cqky, .css-1njih6h {
-	background-color: #E8EEF9;
+.sidebar-tab-content section, [data-qa = "feed-card"], .css-1njih6h {
+	background-color: #E8EEF9 !important;
 }
 
 /*Tabs*/
