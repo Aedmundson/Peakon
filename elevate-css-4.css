@@ -10,14 +10,14 @@ body {
 
 /*Sidebar*/
 
-.sidebar-tab-content div, .css-1njih6h {
+.sidebar-tab-content div {
 	box-shadow: none;
-	/*background-color: #E8EEF9;*/
+	background-color: #E8EEF9;
 }
 
-/*.sidebar-tab-content section {
+.sidebar-tab-content section {
 	background-color: #E8EEF9;
-}*/
+}
 
 /*Tabs*/
 
@@ -26,7 +26,7 @@ body {
 	color: #000;
 	border-radius: 27px;
 }
-.pt-select .select-box {
+.select-box {
 	border-radius: 27px;
 	padding-left: 20px;
 }
@@ -48,4 +48,7 @@ body {
 }
 .challenge-card .pt-card {
 	box-shadow: none;
+}
+.channel-card__inner-content-container:hover .channel-card__dark-overlay {
+	background-color: #E8EEF9;
 }
