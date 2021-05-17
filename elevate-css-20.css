@@ -78,7 +78,7 @@ div#ADVOCATE-NAV > div:first-child {
 	border-bottom: 1px solid #506154;
 }
 .c-footer-nav-secondary a{
-	font-size: 14px;
+	font-size: 14px !important;
 }
 
 /*Sidebar*/
