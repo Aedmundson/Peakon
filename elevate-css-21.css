@@ -71,6 +71,9 @@ div#ADVOCATE-NAV > div:first-child {
 	vertical-align: middle;
 	padding-right: 15px;
 }
+.c-footer-social span {
+	padding: 0 10px;
+}
 .c-footer-branding li > * {
 	vertical-align: middle;
 }
@@ -85,7 +88,6 @@ div#ADVOCATE-NAV > div:first-child {
 
 .sidebar-tab-content div {
 	box-shadow: none;
-	/*background-color: #E8EEF9;*/
 }
 
 .sidebar-tab-content section, [data-qa = "feed-card"], .css-1njih6h, div#COMMUNITY_FEED_CONTAINER > div > div {
