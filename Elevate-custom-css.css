@@ -1,0 +1,54 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*Global*/
+
+body {
+	background:#FFF;
+	color: #000;
+}
+.css-ltsvdo {
+	display: flex;
+}
+
+/*Sidebar*/
+
+.sidebar-tab-content div, .css-1njih6h {
+	box-shadow: none;
+	background-color: #E8EEF9;
+}
+
+.sidebar-tab-content section {
+	background-color: #E8EEF9;
+}
+
+/*Tabs*/
+
+.tablist__tab--selected {
+	background-color: #D2BDFF;
+	color: #000;
+	border-radius: 27px;
+}
+.pt-select .select-box {
+	border-radius: 27px;
+	padding-left: 20px;
+}
+
+/*Challenges*/
+
+.channel-card__gradient_dark {
+	display: none;
+}
+.channel-card__image-container div {
+	background-color: #E8EEF9;
+}
+.channel-card__horizontal-line {
+	border-bottom-color: #FFF;
+	opacity: 1;
+}
+.channel-card__inner-content-container {
+	color: #000;
+}
+.challenge-card .pt-card {
+	box-shadow: none;
+}
