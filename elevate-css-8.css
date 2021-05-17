@@ -24,6 +24,9 @@ body {
 .sidebar-tab-content section, [data-qa = "feed-card"], .css-1njih6h {
 	background-color: #E8EEF9 !important;
 }
+.sidebar-tab-content section {
+	padding: 10px;
+}
 
 /*Tabs*/
 
