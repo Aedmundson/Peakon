@@ -37,9 +37,22 @@ div#ADVOCATE-NAV > div:first-child {
 	width: 100%;
 	color: #FFF;
 }
+#custom-footer .c-footer a {
+	color: #FFF;
+}
 .c-footer-inner {
+	padding: 20px;
 	width: 1050px;
   margin: 0 auto;
+}
+.c-footer-inner li {
+	display: inline
+}
+.c-footer-top, .c-footer-bottom {
+	display: flex;
+}
+.c-footer-nav, .c-footer-social, .c-footer-branding, .c-footer-nav-secondary {
+	width: 100%;
 }
 
 /*Sidebar*/
