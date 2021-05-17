@@ -13,6 +13,16 @@ body {
 	display: flex;
 	background-color: #FFF;
 }
+div#ADVOCATE-NAV {
+  width: 1050px;
+  margin: 0 auto;
+}
+div#ADVOCATE-NAV div:first-child {
+	width: 100%;
+}
+.css-1j1duor {
+  padding-left: 50px;
+}
 
 /*Sidebar*/
 
