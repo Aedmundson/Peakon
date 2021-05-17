@@ -12,11 +12,11 @@ body {
 
 .sidebar-tab-content div {
 	box-shadow: none;
-	background-color: #E8EEF9;
+	/*background-color: #E8EEF9;*/
 }
 
 .sidebar-tab-content section {
-	/*background-color: #E8EEF9;*/
+	background-color: #E8EEF9;
 }
 
 /*Tabs*/
