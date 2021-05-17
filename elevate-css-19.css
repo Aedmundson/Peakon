@@ -39,6 +39,7 @@ div#ADVOCATE-NAV > div:first-child {
 }
 #custom-footer .c-footer a {
 	color: #FFF;
+	font-size: 16px;
 }
 .c-footer-inner {
 	padding: 20px;
@@ -72,6 +73,12 @@ div#ADVOCATE-NAV > div:first-child {
 }
 .c-footer-branding li > * {
 	vertical-align: middle;
+}
+.c-footer-top {
+	border-bottom: 1px solid #506154;
+}
+.c-footer-nav-secondary a{
+	font-size: 14px;
 }
 
 /*Sidebar*/
