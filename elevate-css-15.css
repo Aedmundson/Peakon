@@ -46,13 +46,19 @@ div#ADVOCATE-NAV > div:first-child {
   margin: 0 auto;
 }
 .c-footer-inner li {
-	display: inline
+	display: inline;
+	float: left;
+	margin: 15px;
 }
 .c-footer-top, .c-footer-bottom {
 	display: flex;
 }
 .c-footer-nav, .c-footer-social, .c-footer-branding, .c-footer-nav-secondary {
 	width: 100%;
+}
+.c-footer .o-logo-light {
+	width: 150px;
+	vertical-align: middle;
 }
 
 /*Sidebar*/
