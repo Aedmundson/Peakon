@@ -4,25 +4,25 @@ body {
 	background:#FFF;
 	color: #000;
 }
-/*.css-ltsvdo {
+.css-ltsvdo {
 	display: flex;
-}*/
+}
 
 /*Sidebar*/
 
 .sidebar-tab-content div, .css-1njih6h {
 	box-shadow: none;
-	/*background-color: #E8EEF9;*/
+	background-color: #E8EEF9;
 }
 
-/*.sidebar-tab-content section {
+.sidebar-tab-content section {
 	background-color: #E8EEF9;
-}*/
+}
 
 /*Tabs*/
 
 .tablist__tab--selected {
-	/*background-color: #D2BDFF;*/
+	background-color: #D2BDFF;
 	color: #000;
 	border-radius: 27px;
 }
