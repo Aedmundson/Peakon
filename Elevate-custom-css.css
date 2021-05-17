@@ -25,7 +25,7 @@ body {
 /*Tabs*/
 
 .tablist__tab--selected {
-	background-color: #D2BDFF;
+	/*background-color: #D2BDFF;*/
 	color: #000;
 	border-radius: 27px;
 }
@@ -36,9 +36,9 @@ body {
 
 /*Challenges*/
 
-.channel-card__gradient_dark {
+/*.channel-card__gradient_dark {
 	display: none;
-}
+}*/
 /*.channel-card__image-container div {
 	background-color: #E8EEF9;
 }*/
