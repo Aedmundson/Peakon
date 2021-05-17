@@ -9,6 +9,8 @@ body {
 	background:#FFF;
 }
 
+/*Header*/
+
 .css-ltsvdo {
 	display: flex;
 	background-color: #FFF;
@@ -22,6 +24,22 @@ div#ADVOCATE-NAV > div:first-child {
 }
 .css-1j1duor {
   padding-left: 50px;
+}
+
+/*Footer*/
+
+.c-footer {
+	display: none;
+}
+#custom-footer .c-footer {
+	display: block;
+	background-color: #28412E;
+	width: 100%;
+	color: #FFF;
+}
+.c-footer-inner {
+	width: 1050px;
+  margin: 0 auto;
 }
 
 /*Sidebar*/
@@ -45,9 +63,16 @@ div#ADVOCATE-NAV > div:first-child {
 	color: #000;
 	border-radius: 27px;
 }
-.select-box {
+.pt-override .pt-select .select-box {
 	border-radius: 27px;
 	padding-left: 20px;
+}
+.pt-override .pt-select .select-box .title {
+	color: #000;
+}
+.tablist__tab:hover {
+	border-radius: 27px;
+	background-color: #E8EEF9;
 }
 
 /*Challenges*/
