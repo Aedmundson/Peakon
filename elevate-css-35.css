@@ -33,7 +33,8 @@ body {
 }
 
 #events, #home, #referrals, #rewards {
-	background:#FFF;
+	background: #FFF !important;
+	background-color: #FFF !important;
 }
 
 /*Banner*/
