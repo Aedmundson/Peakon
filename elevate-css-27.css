@@ -36,6 +36,20 @@ body {
 	background:#FFF;
 }
 
+/*Banner*/
+
+.c-banner {
+	display: block;
+	width: 100%;
+	background-color: #E8EEF9;
+	padding: 30px;
+	position: relative;
+}
+.c-banner-title h1 {
+	font-family: 'GTAlpina', "Times New Roman", "serif";
+	font-size: 50px;
+}
+
 /*Header*/
 
 .css-ltsvdo {
