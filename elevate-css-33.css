@@ -155,6 +155,12 @@ div#custom-header {
 .c-footer-bottom {    
 	margin-top: 20px;
 }
+.c-footer .c-footer-nav {
+	margin-top: 0px;
+}
+.c-footer-branding ul li:last-child {
+  margin-top: 30px;
+}
 
 /*Sidebar*/
 
