@@ -52,6 +52,16 @@ div#ADVOCATE-NAV > div:first-child {
 .css-1j1duor {
   padding-left: 50px;
 }
+.c-nav-list [type = "home"]{
+	display: none !important;
+}
+.c-nav-list {
+	text-align: center;
+  display: block;
+}
+.o-logo img {
+	width: 211px;
+}
 
 /*Footer*/
 
