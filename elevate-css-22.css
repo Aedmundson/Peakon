@@ -1,8 +1,35 @@
+/* Typeface*/
+@font-face {
+  font-family: "GTAlpina-Italic";
+  src: url("https://s3-eu-west-1.amazonaws.com/materials.peakon.com/email-template-assets/peakon-fonts/GT-Alpina-Extended-Regular-Italic.otf");
+}
+@font-face {
+  font-family: "GTAlpina";
+  src: url("https://s3-eu-west-1.amazonaws.com/materials.peakon.com/email-template-assets/peakon-fonts/GT-Alpina-Extended-Regular.otf");
+}
+@font-face {
+  font-family: "DMSans";
+  src: url("https://s3-eu-west-1.amazonaws.com/materials.peakon.com/email-template-assets/peakon-fonts/DMSans-Regular.ttf");
+}
+@font-face {
+  font-family: "DMSansBold";
+  src: url("https://s3-eu-west-1.amazonaws.com/materials.peakon.com/email-template-assets/peakon-fonts/DMSans-Bold.ttf");
+}
+@font-face {
+  font-family: "DMSansItalic";
+  src: url("https://s3-eu-west-1.amazonaws.com/materials.peakon.com/email-template-assets/peakon-fonts/DMSans-Italic.ttf");
+}
+
 /*Global*/
 
 body {
-	background:#FFF;
-	color: #000;
+	background-color: #FFF;
+  color: #000;
+  font-family: 'DMSans', 'Helvetica', 'Arial';
+  font-size: 15px;
+  font-weight: 400;
+  line-height: 21.5px;
+  -webkit-font-smoothing: antialiased;
 }
 
 #events, #home {
@@ -82,6 +109,9 @@ div#ADVOCATE-NAV > div:first-child {
 }
 .c-footer-nav-secondary a{
 	font-size: 14px !important;
+}
+.c-footer-bottom {    
+	margin-top: 20px;
 }
 
 /*Sidebar*/
