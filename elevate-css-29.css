@@ -68,8 +68,8 @@ div#ADVOCATE-NAV > div:first-child {
 }
 .css-1j1duor {
   padding-left: 50px;
-	width: 70%;
-  margin-top: -70px;
+	width: 70% !important;
+  margin-top: -70px !important;
   float: right;
 	position: relative;
 }
