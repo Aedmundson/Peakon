@@ -169,6 +169,10 @@ div#custom-header {
 .c-footer-branding ul li:last-child {
   margin-top: 30px;
 }
+div#custom-footer {
+    z-index: 999;
+    position: relative;
+}
 
 /*Sidebar*/
 
