@@ -39,11 +39,11 @@ body {
 /*Banner*/
 
 .c-banner {
-	display: block;
-	width: 100%;
-	background-color: #E8EEF9;
-	padding: 30px;
 	position: relative;
+  left: -50%;
+  right: -50%;
+  padding-left: 50%;
+  padding-right: 50%;
 }
 .c-banner-title h1 {
 	font-family: 'GTAlpina', "Times New Roman", "serif";
@@ -53,7 +53,7 @@ body {
 /*Header*/
 
 .css-ltsvdo {
-	display: flex;
+	display: block;
 	background-color: #FFF;
 }
 div#ADVOCATE-NAV > div:last-child {
@@ -65,6 +65,10 @@ div#ADVOCATE-NAV > div:first-child {
 }
 .css-1j1duor {
   padding-left: 50px;
+	width: 70%;
+  margin-top: -70px;
+  float: right;
+	position: relative;
 }
 .c-nav-list [type = "home"]{
 	display: none !important;
@@ -76,6 +80,15 @@ div#ADVOCATE-NAV > div:first-child {
 .o-logo img {
 	margin-top: 10px;
 	width: 211px;
+}
+div#custom-header {
+  width: 20%;
+  position: relative;
+  float: left;
+  margin-top: -70px
+}
+.c-company-banner-container {
+  margin-top: 70px;
 }
 
 /*Footer*/
