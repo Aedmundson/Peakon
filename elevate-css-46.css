@@ -183,6 +183,14 @@ div#custom-footer {
     z-index: 999;
     position: relative;
 }
+.c-footer-social table {
+	float: right;
+	text-align: right;
+}
+.c-footer-social table span {
+	top: -10px;
+  position: relative;
+}
 
 /*Sidebar*/
 
@@ -195,6 +203,9 @@ div#custom-footer {
 }
 .profile_completion {
 	padding: 10px;
+}
+#COMMUNITY_FEED_CONTAINER, .goals {
+	display: none;
 }
 
 /*Tabs*/
@@ -235,7 +246,7 @@ div#custom-footer {
 	border-bottom-color: #FFF;
 	opacity: 1;
 }
-.channel-card__inner-content-container, .css-1un3t8d {
+.channel-card__inner-content-container, .css-1un3t8d, .css-ltiiju {
 	color: #000 !important;
 }
 .challenge-card .pt-card {
@@ -244,15 +255,4 @@ div#custom-footer {
 .channel-card__inner-content-container:hover .channel-card__dark-overlay, .css-r7qdt1:hover .css-1snii0k {
 	background-color: #E8EEF9 !important;
 	box-shadow: none;
-}
-#COMMUNITY_FEED_CONTAINER, .goals {
-	display: none;
-}
-.c-footer-social table {
-	float: right;
-	text-align: right;
-}
-.c-footer-social table span {
-	top: -10px;
-  position: relative;
 }
