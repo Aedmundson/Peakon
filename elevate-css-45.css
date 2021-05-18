@@ -236,13 +236,13 @@ div#custom-footer {
 	opacity: 1;
 }
 .channel-card__inner-content-container, .css-1un3t8d {
-	color: #000;
+	color: #000 !important;
 }
 .challenge-card .pt-card {
 	box-shadow: none;
 }
-.channel-card__inner-content-container:hover .channel-card__dark-overlay, .css-r7qdt1:hover {
-	background-color: #E8EEF9;
+.channel-card__inner-content-container:hover .channel-card__dark-overlay, .css-r7qdt1:hover .css-1snii0k {
+	background-color: #E8EEF9 !important;
 	box-shadow: none;
 }
 #COMMUNITY_FEED_CONTAINER, .goals {
