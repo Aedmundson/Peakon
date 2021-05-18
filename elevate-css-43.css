@@ -62,6 +62,8 @@ body {
 .c-banner-content {
   padding: 30px;
   margin: auto;
+	font-size: 18px;
+	font-weight: 400;
 }
 
 /*Header*/
