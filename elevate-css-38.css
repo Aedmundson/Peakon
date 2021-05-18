@@ -132,18 +132,17 @@ div#custom-header {
 	width: 150px;
 	vertical-align: middle;
 }
-.c-footer-social li, .c-footer-nav-secondary li {
+.c-footer-nav-secondary li {
 	float: right;
-}
-.c-footer-social li:nth-child(3) {
-	clear: both;
-}
-.c-footer-social li > * {
-	vertical-align: middle;
-	padding-right: 15px;
 }
 .c-footer-social span {
 	padding: 0 10px;
+}
+.c-footer-social tbody, .c-footer-social tr {
+	border: none !important;
+}
+.c-footer-social td {
+	padding: 5px !important;
 }
 .c-footer-branding li > * {
 	vertical-align: middle;
