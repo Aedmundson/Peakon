@@ -148,6 +148,9 @@ div#ADVOCATE-NAV > div:first-child {
 
 /*Challenges*/
 
+.channel-card__headline {
+	font-family: 'GTAlpina', "Times New Roman", "serif";
+}
 .channel-card__gradient_dark {
 	display: none;
 }
