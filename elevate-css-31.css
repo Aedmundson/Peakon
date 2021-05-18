@@ -51,6 +51,7 @@ body {
 	font-family: 'GTAlpina', "Times New Roman", "serif";
 	font-size: 50px;
 	padding: 30px;
+	color: #000;
 }
 
 /*Header*/
@@ -215,4 +216,11 @@ div#custom-header {
 .channel-card__inner-content-container:hover .channel-card__dark-overlay {
 	background-color: #E8EEF9;
 	box-shadow: none;
+}
+#COMMUNITY_FEED_CONTAINER, .goals {
+	display: none;
+}
+.c-footer-social table {
+	float: right;
+	text-align: right;
 }
