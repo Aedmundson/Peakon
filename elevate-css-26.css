@@ -55,11 +55,12 @@ div#ADVOCATE-NAV > div:first-child {
 .c-nav-list [type = "home"]{
 	display: none !important;
 }
-.c-nav-list {
+#nav-container ul {
 	text-align: center;
   display: block;
 }
 .o-logo img {
+	margin-top: 10px;
 	width: 211px;
 }
 
