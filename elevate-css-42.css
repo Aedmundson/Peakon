@@ -48,12 +48,20 @@ body {
   padding-right: 50%;
 	background: #E8EEF9;
 	width: 100%;
+	display: flex;
 }
 .c-banner-title h1 {
 	font-family: 'GTAlpina', "Times New Roman", "serif";
 	font-size: 35px;
 	padding: 30px;
 	color: #000;
+}
+.c-banner-title span {
+  font-family: 'GTAlpina-Italic', "Times New Roman", "serif";
+}
+.c-banner-content {
+  padding: 30px;
+  margin: auto;
 }
 
 /*Header*/
