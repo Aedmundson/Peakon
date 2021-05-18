@@ -107,6 +107,7 @@ div#custom-header {
 	background-color: #28412E;
 	width: 100%;
 	color: #FFF;
+	z-index: 999;
 }
 #custom-footer .c-footer a {
 	color: #FFF;
@@ -126,7 +127,7 @@ div#custom-header {
 	display: flex;
 }
 .c-footer-nav, .c-footer-social, .c-footer-branding, .c-footer-nav-secondary {
-	width: 100%;
+	width: 50%;
 }
 .c-footer .o-logo-light {
 	width: 150px;
@@ -144,6 +145,9 @@ div#custom-header {
 .c-footer-social td {
 	padding: 5px !important;
 }
+.c-footer-branding{
+  margin-left: -20px;
+}
 .c-footer-branding li > * {
 	vertical-align: middle;
 }
@@ -152,6 +156,9 @@ div#custom-header {
 }
 .c-footer-nav-secondary a{
 	font-size: 14px !important;
+}
+.c-footer-nav {
+	margin-left: -20px;
 }
 .c-footer-bottom {    
 	margin-top: 20px;
