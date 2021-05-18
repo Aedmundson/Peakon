@@ -242,14 +242,14 @@ div#custom-footer {
 .channel-card__image-container div {
 	background-color: #E8EEF9;
 }
-.channel-card__horizontal-line {
+.channel-card__horizontal-line, .css-1t0lz1r {
 	border-bottom-color: #FFF;
 	opacity: 1;
 }
-.channel-card__inner-content-container, .css-1un3t8d, .css-ltiiju {
+.channel-card__inner-content-container, .css-1un3t8d, .css-ltiiju, .css-1wfel9u div {
 	color: #000 !important;
 }
-.challenge-card .pt-card {
+.challenge-card .pt-card, .css-1tn4ere {
 	box-shadow: none;
 }
 .channel-card__inner-content-container:hover .channel-card__dark-overlay, .css-r7qdt1:hover .css-1snii0k {
