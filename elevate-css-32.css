@@ -224,3 +224,7 @@ div#custom-header {
 	float: right;
 	text-align: right;
 }
+.c-footer-social table span {
+	top: -10px;
+  position: relative;
+}
