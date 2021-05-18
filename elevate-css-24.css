@@ -150,6 +150,10 @@ div#ADVOCATE-NAV > div:first-child {
 
 .channel-card__headline {
 	font-family: 'GTAlpina', "Times New Roman", "serif";
+	font-size: 17px;
+  font-weight: 400;
+  line-height: 21.5px;
+  -webkit-font-smoothing: antialiased;
 }
 .channel-card__gradient_dark {
 	display: none;
