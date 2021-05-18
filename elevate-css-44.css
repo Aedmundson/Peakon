@@ -225,7 +225,7 @@ div#custom-footer {
   line-height: 21.5px;
   -webkit-font-smoothing: antialiased;
 }
-.channel-card__gradient_dark {
+.channel-card__gradient_dark, .css-170r1z0 {
 	display: none;
 }
 .channel-card__image-container div {
@@ -235,13 +235,13 @@ div#custom-footer {
 	border-bottom-color: #FFF;
 	opacity: 1;
 }
-.channel-card__inner-content-container {
+.channel-card__inner-content-container, .css-1un3t8d {
 	color: #000;
 }
 .challenge-card .pt-card {
 	box-shadow: none;
 }
-.channel-card__inner-content-container:hover .channel-card__dark-overlay {
+.channel-card__inner-content-container:hover .channel-card__dark-overlay, .css-r7qdt1:hover {
 	background-color: #E8EEF9;
 	box-shadow: none;
 }
