@@ -276,7 +276,6 @@ div#custom-footer {
 #advocate-rewards > .tab-header {
 	display: none !important;
 }
-
 .reward-filter ul li a {
 	padding: 7px 20px;
 }
@@ -289,5 +288,10 @@ div#custom-footer {
 	border: none !important;
 	background: #E8EEF9;
   border-radius: 27px;
+}
+.rewards-section-title {
+	font-family: GT Alpina !important;
+	font-size: 25px !important;
+	line-height: 29px;
 }
 
