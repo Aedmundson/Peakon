@@ -239,10 +239,10 @@ div#custom-footer {
 .channel-card__gradient_dark, .css-170r1z0 {
 	display: none;
 }
-.channel-card__image-container {
+.channel-card__image-container, .css-16nb0ty {
 	background-color: #E8EEF9;
 }
-.channel-card__image-container > div {
+.channel-card__image-container > div, .css-ij36dd {
 	background-color: #E8EEF9 !important;
 	width: 180px !important;
 	height: 180px !important;
