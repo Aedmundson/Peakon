@@ -38,6 +38,14 @@ body {
 	background-color: #FFF !important;
 }
 
+.button.primary, button.primary {
+	background-color: #D2BDFF !important;
+	border-color: #D2BDFF !important;
+	color: #000 !important;
+	border-radius: 27px;
+	box-shadow: none !important;
+}
+
 /*Banner*/
 
 .c-banner {
@@ -268,3 +276,18 @@ div#custom-footer {
 #advocate-rewards > .tab-header {
 	display: none !important;
 }
+
+.reward-filter ul li {
+	padding: 7px 20px;
+}
+.reward-filter ul li.active a {
+	border: none !important;
+	background: #D2BDFF;
+  border-radius: 27px;
+}
+.reward-filter ul li a:hover {
+	border: none !important;
+	background: #E8EEF9;
+  border-radius: 27px;
+}
+
