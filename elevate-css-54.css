@@ -262,3 +262,9 @@ div#custom-footer {
 	background-color: #E8EEF9 !important;
 	box-shadow: none;
 }
+
+/*Rewards*/
+
+.advocate-rewards > .tab-header {
+	display: none !important;
+}
