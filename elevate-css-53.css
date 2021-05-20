@@ -240,7 +240,7 @@ div#custom-footer {
 	display: none;
 }
 .channel-card__image-container, .css-16nb0ty {
-	background-color: #E8EEF9;
+	background-color: #E8EEF9 !important;
 }
 .channel-card__image-container > div, .css-ij36dd {
 	background-color: #E8EEF9 !important;
