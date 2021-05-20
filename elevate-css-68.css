@@ -306,7 +306,7 @@ div#custom-footer {
 
 /*Forum*/
 
-.c-homepage .sidebar {
+.c-homepage .sidebar, .c-forum .sidebar {
 	display: none !important;
 }
 .list-controls .btn#create-topic, .list-controls .btn#create-topic-custom {
