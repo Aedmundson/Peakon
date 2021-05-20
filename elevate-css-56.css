@@ -277,7 +277,7 @@ div#custom-footer {
 	display: none !important;
 }
 
-.reward-filter ul li {
+.reward-filter ul li a {
 	padding: 7px 20px;
 }
 .reward-filter ul li.active a {
