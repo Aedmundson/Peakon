@@ -240,7 +240,7 @@ div#custom-footer {
 	display: none;
 }
 .channel-card__image-container > div {
-	background-color: #E8EEF9;
+	background-color: #E8EEF9 !important;
 }
 .channel-card__horizontal-line, .css-1t0lz1r {
 	border-bottom-color: #FFF;
