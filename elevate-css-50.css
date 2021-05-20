@@ -244,8 +244,8 @@ div#custom-footer {
 }
 .channel-card__image-container > div {
 	background-color: #E8EEF9 !important;
-	width: 180px;
-	height: 180px;
+	width: 180px !important;
+	height: 180px !important;
 	margin: 0 auto;
 }
 .channel-card__horizontal-line, .css-1t0lz1r {
