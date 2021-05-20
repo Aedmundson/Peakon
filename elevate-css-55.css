@@ -265,6 +265,6 @@ div#custom-footer {
 
 /*Rewards*/
 
-.advocate-rewards > .tab-header {
+#advocate-rewards > .tab-header {
 	display: none !important;
 }
