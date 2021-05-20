@@ -45,6 +45,13 @@ body {
 	border-radius: 27px;
 	box-shadow: none !important;
 }
+.btn-primary {
+	background: #D2BDFF !important;
+	color: #000 !important;
+}
+.btn-primary .d-icon {
+	color: #000 !important;
+}
 
 /*Banner*/
 
@@ -295,5 +302,26 @@ div#custom-footer {
 	line-height: 29px;
 	font-weight: normal !important;
 	color: #000 !important;
+}
+
+/*Forum*/
+
+.c-homepage > .sidebar {
+	display: none !important;
+}
+.list-controls .btn#create-topic, .list-controls .btn#create-topic-custom {
+	background: #D2BDFF !important;
+	color: #000 !important;
+}
+.list-controls .nav-pills>li.active>a, .list-controls .nav-pills>li>a.active {
+	border: none !important;
+	background: #D2BDFF;
+  border-radius: 27px;
+}
+.list-controls .nav-pills>li>a {
+  padding: 7px 20px;
+}
+.list-controls .nav-pills>li>a:hover {
+  border: none !important;
 }
 
