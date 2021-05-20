@@ -306,7 +306,7 @@ div#custom-footer {
 
 /*Forum*/
 
-.c-homepage > .sidebar {
+.c-homepage .sidebar {
 	display: none !important;
 }
 .list-controls .btn#create-topic, .list-controls .btn#create-topic-custom {
@@ -315,7 +315,7 @@ div#custom-footer {
 }
 .list-controls .nav-pills>li.active>a, .list-controls .nav-pills>li>a.active {
 	border: none !important;
-	background: #D2BDFF;
+	background: #D2BDFF !important;
   border-radius: 27px;
 }
 .list-controls .nav-pills>li>a {
@@ -323,5 +323,9 @@ div#custom-footer {
 }
 .list-controls .nav-pills>li>a:hover {
   border: none !important;
+	background: #E8EEF9 !important;
+  border-radius: 27px;
 }
-
+#create-topic svg {
+	color: #000 !important;
+}
