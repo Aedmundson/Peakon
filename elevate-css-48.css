@@ -239,7 +239,7 @@ div#custom-footer {
 .channel-card__gradient_dark, .css-170r1z0 {
 	display: none;
 }
-.channel-card__image-container div {
+.channel-card__image-container > div {
 	background-color: #E8EEF9;
 }
 .channel-card__horizontal-line, .css-1t0lz1r {
