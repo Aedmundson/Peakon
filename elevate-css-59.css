@@ -290,8 +290,9 @@ div#custom-footer {
   border-radius: 27px;
 }
 .rewards-section-title {
-	font-family: GT Alpina !important;
+	font-family: GTAlpina !important;
 	font-size: 25px !important;
 	line-height: 29px;
+	font-wieght: normal !important;
 }
 
