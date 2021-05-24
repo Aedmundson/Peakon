@@ -341,3 +341,26 @@ div#custom-footer {
 	box-shadow: none !important;
 	border-radius: 27px;
 }
+
+/*Mobile Styles*/
+
+.c-mobile-header, .c-mobile-icon-menu {
+	width: 100vw;
+}
+
+.c-mobile-header > .c-logo-container > img {
+	width: 200px;
+	max-height: fit-content;
+}
+
+@media (max-width: 1050px) {
+	.c-footer-inner {
+		width: 100%;
+	}
+	.c-footer-nav, .c-footer-social, .c-footer-branding, .c-footer-nav-secondary {
+		min-width: 100%;
+		display:block;
+		float: left;
+		position: relative;
+	}
+}
