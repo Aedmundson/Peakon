@@ -357,10 +357,21 @@ div#custom-footer {
 	.c-footer-inner {
 		width: 100%;
 	}
-	.c-footer-nav, .c-footer-social, .c-footer-branding, .c-footer-nav-secondary {
+	.c-footer-nav, .c-footer-social, .c-footer-branding, .c-footer-nav-secondary, .c-footer-social table {
 		min-width: 100%;
 		display:block;
 		float: left;
 		position: relative;
+	}
+	.c-footer-top, .c-footer-bottom {
+   		 display: inline-block;
+	}
+	.c-footer-inner li {
+		float: none;
+		test-align: center;
+		display: inline-block;
+	}
+	.c-footer-inner ul {
+		margin-bottom: 30px;
 	}
 }
