@@ -122,6 +122,14 @@ div#custom-header {
   margin-top: -70px
 }
 
+.c-sign_in > div#custom-header {
+  margin-top: 0px !important;
+  margin: 0 auto;
+  display: block;
+  width: 1050px !important;
+  float: none !important;
+}
+
 /*Footer*/
 
 .c-footer {
