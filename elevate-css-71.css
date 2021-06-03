@@ -122,7 +122,7 @@ div#custom-header {
   margin-top: -70px
 }
 
-.c-sign_in > div#custom-header {
+.c-sign_in [data-qa = "HUB_custom-header"] {
   margin-top: 0px !important;
   margin: 0 auto;
   display: block;
