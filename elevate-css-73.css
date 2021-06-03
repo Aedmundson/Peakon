@@ -123,10 +123,10 @@ div#custom-header {
 }
 
 .c-sign_in [data-qa = "HUB_custom-header"] {
-  margin-top: 0px !important;
+  margin-top: 50px !important;
   margin: 0 auto;
   display: block;
-  width: 1050px !important;
+  width: 1030px !important;
   float: none !important;
 }
 
